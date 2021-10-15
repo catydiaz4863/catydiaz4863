@@ -11,7 +11,7 @@
 ### &#8594; About me
 Hi! I'm Catalina Diaz, however I usually go my Cat. I have found my passion in tech and am currently an Advocate for my local community as a Frontera Devs lead. I help students learn about new technology via workshops, and am part of a mentorship program to share my knowledge. I want to advance in my Developer Advocate career track by learning and experimenting with new APIs and tools to be able to share that with developers around the world! 
 
-### &#8594; Current Curiosities 
+### &#8594; Current Learning
 - Machine Learning
 - Deep Learning
 - Data Science 
